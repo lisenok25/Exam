@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\bin\Debug\net6.0\Ex008-Функции.exe
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\bin\Debug\net6.0\Ex008-Функции.deps.json
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\bin\Debug\net6.0\Ex008-Функции.runtimeconfig.json
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\bin\Debug\net6.0\Ex008-Функции.dll
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\bin\Debug\net6.0\Ex008-Функции.pdb
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.AssemblyInfo.cs
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.dll
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\refint\Ex008-Функции.dll
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.pdb
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\Ex008-Функции.genruntimeconfig.cache
+C:\Users\Zver\Desktop\домашнее задание geek brains\языки програмирования\лекции по С#\Exam\Example\Ex008-Функции\obj\Debug\net6.0\ref\Ex008-Функции.dll
